@@ -1,0 +1,20 @@
+{
+  "name": "choreo-2go",
+  "version": "1.0.0",
+  "description": "choreo",
+  "main": "index.js",
+  "author": "eooce",
+  "repository": "",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "express": "latest"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
